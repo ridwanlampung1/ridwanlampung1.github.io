@@ -1,11 +1,11 @@
 {
     "status_iklan"              : 1,
     "main_ads_banner"           : "null_online",
-    "main_ads_intertitial"      : "ca-app-pub-2214374349425406/1248401433",
-    "main_ads_reward"           : "ca-app-pub-2214374349425406/1707566435",
+    "main_ads_intertitial"      : "R-M-13586354-2",
+    "main_ads_reward"           : "R-M-13586354-3",
 
 
     "backup_ads_banner"           : "backup_online",
-    "backup_ads_intertitial"      : "981826892",
-    "backup_ads_reward"           : "981826907"
+    "backup_ads_intertitial"      : "backup_online",
+    "backup_ads_reward"           : "backup_online"
 }
