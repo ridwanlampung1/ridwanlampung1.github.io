@@ -1,0 +1,14 @@
+{
+    "status_iklan"              : 1,
+    "main_ads_banner"           : "null_online",
+    "main_ads_intertitial"      : "null_online",
+    "main_ads_reward"           : "null_online",
+
+
+    "backup_ads_banner"           : "backup_online",
+    "backup_ads_intertitial"      : "backup_online",
+    "backup_ads_reward"           : "backup_online",
+
+
+    "version_app"                : 1
+}
