@@ -1,5 +1,11 @@
 {
     "status_iklan"              : 1,
-    "main_ads_banner"           : "null",
-    "main_ads_intertitial"      : "ca-app-pub-2214374349425406/8759641082"
+    "main_ads_banner"           : "null_online",
+    "main_ads_intertitial"      : "null_online",
+    "main_ads_reward"           : "ca-app-pub-3940256099942544/5224354917",
+
+
+    "backup_ads_banner"           : "backup_online",
+    "backup_ads_intertitial"      : "945113166",
+    "backup_ads_reward"           : "901121430"
 }
