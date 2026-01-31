@@ -1,5 +1,6 @@
 {
     "status_iklan"              : 1,
+    "more_app"                  : 0,
     "main_ads_banner"           : "null_online",
     "main_ads_intertitial"      : "demo-interstitial-yandex",
     "main_ads_reward"           : "demo-rewarded-yandex",
