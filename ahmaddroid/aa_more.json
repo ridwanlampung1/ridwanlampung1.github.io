@@ -1,0 +1,192 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More Apps",
+      "image":"https://masaktv.github.io/img/all.webp",
+      "link":"https://play.google.com/store/apps/dev?id=6026947352563439629"
+    },
+    {
+      "id":2,
+      "title":"Ronaldo",
+      "image":"https://masaktv.github.io/img/cristianoronaldomasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.cristianoronaldomasak"
+    },
+    {
+      "id":3,
+      "title":"Messi",
+      "image":"https://masaktv.github.io/img/lionelmessimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.lionelmessimasak"
+    },
+    {
+      "id":4,
+      "title":"Haaland",
+      "image":"https://masaktv.github.io/img/erlinghaalandmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.erlinghaalandmasak"
+    },
+    {
+      "id":5,
+      "title":"Mbappe",
+      "image":"https://masaktv.github.io/img/kylianmbappemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.kylianmbappemasak"
+    },
+    {
+      "id":6,
+      "title":"Jimin",
+      "image":"https://masaktv.github.io/img/btsjiminmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.parkjiminmasak"
+    },
+    {
+      "id":7,
+      "title":"JHope",
+      "image":"https://masaktv.github.io/img/btsjhopemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.jhopejunghoseokmasak"
+    },
+    {
+      "id":8,
+      "title":"Jungkook",
+      "image":"https://masaktv.github.io/img/btsjungkookmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.btsjungkookmasak"
+    },
+    {
+      "id":9,
+      "title":"RM",
+      "image":"https://masaktv.github.io/img/btskimnamjoonmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.btskimnamjoonmasak"
+    },
+    {
+      "id":10,
+      "title":"Jin",
+      "image":"https://masaktv.github.io/img/btskimseokjinmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.btskimseokjinmasak"
+    },
+    {
+      "id":11,
+      "title":"Suga",
+      "image":"https://masaktv.github.io/img/btssugamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.sugaagustdmasak"
+    },
+    {
+      "id":12,
+      "title":"Taehyung",
+      "image":"https://masaktv.github.io/img/btstaehyungmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.btstaehyungmasak"
+    },
+    {
+      "id":13,
+      "title":"Jennie Blackpink",
+      "image":"https://masaktv.github.io/img/blackpinkjenniemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.blackpinkjenniemasak"
+    },
+    {
+      "id":14,
+      "title":"Jisoo Blackpink",
+      "image":"https://masaktv.github.io/img/blackpinkjisoomasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.blackpinkjisoomasak"
+    },
+    {
+      "id":15,
+      "title":"Lisa Blackpink",
+      "image":"https://masaktv.github.io/img/blackpinklisamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.blackpinklisamasak"
+    },
+    {
+      "id":16,
+      "title":"Rose Blackpink",
+      "image":"https://masaktv.github.io/img/blackpinkrosemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.blackpinkrosemasak"
+    },
+    {
+      "id":17,
+      "title":"Giselle Aespa",
+      "image":"https://masaktv.github.io/img/aespagisellemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.aespagisellemasak"
+    },
+    {
+      "id":18,
+      "title":"Karina Aespa",
+      "image":"https://masaktv.github.io/img/aespakarinamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.aespakarinamasak"
+    },
+    {
+      "id":19,
+      "title":"Winter Aespa",
+      "image":"https://masaktv.github.io/img/aespawintermasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.aespawintermasak"
+    },
+    {
+      "id":20,
+      "title":"NingNing Aespa",
+      "image":"https://masaktv.github.io/img/aespaningningmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.aespaningningmasak"
+    },
+    {
+      "id":21,
+      "title":"Kim Seon-ho",
+      "image":"https://masaktv.github.io/img/kimseonhomasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.kimseonhomasak"
+    },
+    {
+      "id":22,
+      "title":"Park Seo-joon",
+      "image":"https://masaktv.github.io/img/parkseojoonmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.parkseojoonmasak"
+    },
+    {
+      "id":23,
+      "title":"Song Joong-ki",
+      "image":"https://masaktv.github.io/img/songjoongkimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.songjoongkimasak"
+    },
+    {
+      "id":24,
+      "title":"Siwon Choi",
+      "image":"https://masaktv.github.io/img/siwonchoimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.siwonchoimasak"
+    },
+    {
+      "id":25,
+      "title":"Inara Rusli",
+      "image":"https://masaktv.github.io/img/inararuslimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.inararuslimasak"
+    },
+    {
+      "id":26,
+      "title":"Fuji An",
+      "image":"https://masaktv.github.io/img/fujiantimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.fujiantimasak"
+    },
+    {
+      "id":27,
+      "title":"Farel Prayoga",
+      "image":"https://masaktv.github.io/img/farelprayogamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.farelprayogamasak"
+    },
+    {
+      "id":28,
+      "title":"NAY",
+      "image":"https://masaktv.github.io/img/naisaalifiayurizamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.naisaalifiayurizamasak"
+    },
+    {
+      "id":29,
+      "title":"Windah Basudara",
+      "image":"https://masaktv.github.io/img/windahbasudaramasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.windahbasudaramasak"
+    },
+    {
+      "id":30,
+      "title":"Rizky Febian",
+      "image":"https://masaktv.github.io/img/rizkyfebianmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.rizkyfebianmasak"
+    },
+    {
+      "id":31,
+      "title":"Pesulap Merah",
+      "image":"https://masaktv.github.io/img/pesulapmerahmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.pesulapmerahmasak"
+    }
+  ]
+
+}
