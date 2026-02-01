@@ -26,14 +26,14 @@
   {
     "id": 1,
     "name": "Cristiano Ronaldo",
-    "image_url": "https://picsum.photos/id/1011/400/400",
+    "image_url": "https://masaktv.github.io/img/cristianoronaldomasak.webp",
     "video_url": "https://example.com/video/ronaldo.mp4",
     "voice_url": "https://example.com/audio/ronaldo_voice.mp3"
   },
   {
     "id": 2,
     "name": "Neymar Jr",
-    "image_url": "https://picsum.photos/id/1027/400/400",
+    "image_url": "https://masaktv.github.io/img/lionelmessimasak.webp",
     "video_url": "https://example.com/video/neymar.mp4",
     "voice_url": "https://example.com/audio/neymar_voice.mp3"
   },
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "name": "Erling Haaland",
-    "image_url": "https://picsum.photos/id/1041/400/400",
+    "image_url": "https://masaktv.github.io/img/erlinghaalandmasak.webp",
     "video_url": "https://example.com/video/haaland.mp4",
     "voice_url": "https://example.com/audio/haaland_voice.mp3"
   },
