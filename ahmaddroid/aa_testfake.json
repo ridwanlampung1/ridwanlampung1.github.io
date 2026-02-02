@@ -20,49 +20,57 @@
     "id": 0,
     "name": "Lionel Messi",
     "image_url": "https://picsum.photos/id/1005/400/400",
-    "video_url": "https://example.com/video/messi.mp4"
+    "video_url": "https://example.com/video/messi.mp4",
+    "about": "https://example.com/video/messi.mp4"
   },
   {
     "id": 1,
     "name": "Cristiano Ronaldo",
     "image_url": "https://masaktv.github.io/img/cristianoronaldomasak.webp",
-    "video_url": "https://example.com/video/ronaldo.mp4"
+    "video_url": "https://example.com/video/ronaldo.mp4",
+    "about": "https://example.com/video/ronaldo.mp4"
   },
   {
     "id": 2,
     "name": "Neymar Jr",
     "image_url": "https://masaktv.github.io/img/lionelmessimasak.webp",
-    "video_url": "https://example.com/video/neymar.mp4"
+    "video_url": "https://example.com/video/neymar.mp4",
+    "about": "https://example.com/video/neymar.mp4"
   },
   {
     "id": 3,
     "name": "Kylian Mbappé",
     "image_url": "https://picsum.photos/id/1025/400/400",
-    "video_url": "https://example.com/video/mbappe.mp4"
+    "video_url": "https://example.com/video/mbappe.mp4",
+    "about": "https://example.com/video/mbappe.mp4"
   },
   {
     "id": 4,
     "name": "Kevin De Bruyne",
     "image_url": "https://picsum.photos/id/1035/400/400",
-    "video_url": "https://example.com/video/debruyne.mp4"
+    "video_url": "https://example.com/video/debruyne.mp4",
+    "about": "https://example.com/video/debruyne.mp4"
   },
   {
     "id": 5,
     "name": "Erling Haaland",
     "image_url": "https://masaktv.github.io/img/erlinghaalandmasak.webp",
-    "video_url": "https://example.com/video/haaland.mp4"
+    "video_url": "https://example.com/video/haaland.mp4",
+    "about": "https://example.com/video/haaland.mp4"
   },
   {
     "id": 6,
     "name": "Luka Modrić",
     "image_url": "https://picsum.photos/id/1050/400/400",
-    "video_url": "https://example.com/video/modric.mp4"
+    "video_url": "https://example.com/video/modric.mp4",
+    "about": "https://example.com/video/modric.mp4"
   },
   {
     "id": 7,
     "name": "Mohamed Salah",
     "image_url": "https://picsum.photos/id/1062/400/400",
-    "video_url": "https://example.com/video/salah.mp4"
+    "video_url": "https://example.com/video/salah.mp4",
+    "about": "https://example.com/video/salah.mp4"
   }
 ]
 
