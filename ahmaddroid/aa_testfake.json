@@ -43,36 +43,9 @@
     "image_url": "https://picsum.photos/id/1025/400/400",
     "video_url": "https://example.com/video/mbappe.mp4",
     "about": "https://example.com/video/mbappe.mp4"
-  },
-  {
-    "id": 4,
-    "name": "Kevin De Bruyne",
-    "image_url": "https://picsum.photos/id/1035/400/400",
-    "video_url": "https://example.com/video/debruyne.mp4",
-    "about": "https://example.com/video/debruyne.mp4"
-  },
-  {
-    "id": 5,
-    "name": "Erling Haaland",
-    "image_url": "https://masaktv.github.io/img/erlinghaalandmasak.webp",
-    "video_url": "https://example.com/video/haaland.mp4",
-    "about": "https://example.com/video/haaland.mp4"
-  },
-  {
-    "id": 6,
-    "name": "Luka Modrić",
-    "image_url": "https://picsum.photos/id/1050/400/400",
-    "video_url": "https://example.com/video/modric.mp4",
-    "about": "https://example.com/video/modric.mp4"
-  },
-  {
-    "id": 7,
-    "name": "Mohamed Salah",
-    "image_url": "https://picsum.photos/id/1062/400/400",
-    "video_url": "https://example.com/video/salah.mp4",
-    "about": "https://example.com/video/salah.mp4"
   }
 ],
+
 "JWallpaper": [
   "https://cdn0-production-images-kly.akamaized.net/tX3HopVbdMTQbgQzgnqI14Lc6Fk=/1280x1706/smart/filters:quality(75):strip_icc()/kly-media-production/medias/4944231/original/013610800_1726295939-000_36G88LG.jpg",
   "https://static.promediateknologi.id/crop/0x224:2062x2032/0x0/webp/photo/p2/01/2025/09/05/messi-3660978536.jpg",
