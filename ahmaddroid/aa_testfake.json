@@ -18,10 +18,10 @@
   "Item": [
   {
     "id": 0,
-    "name": "Lionel Messi",
-    "image_url": "https://picsum.photos/id/1005/400/400",
+    "name": "Erling Haaland",
+    "image_url": "https://www.sportsmole.co.uk/thumbor/7FsprSI77OE34XBUxz10ZIgkMGU=/720x540/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2F24%2F39%2Ferling-haaland.jpg",
     "video_url": "https://example.com/video/messi.mp4",
-    "about": "https://example.com/video/messi.mp4"
+    "about": "Erling Braut Haaland (né Håland;[4] lahir 21 Juli 2000) adalah pemain sepak bola profesional Norwegia yang bermain sebagai penyerang untuk klub Liga Utama Inggris, Manchester City dan tim nasional Norwegia."
   },
   {
     "id": 1,
