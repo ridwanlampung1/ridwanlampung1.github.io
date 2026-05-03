@@ -18,39 +18,19 @@
   "Item": [
   {
     "id": 0,
-    "name": "Erling Haaland",
-    "image_url": "https://www.sportsmole.co.uk/thumbor/7FsprSI77OE34XBUxz10ZIgkMGU=/720x540/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2F24%2F39%2Ferling-haaland.jpg",
-    "video_url": "https://example.com/video/messi.mp4",
-    "about": "Erling Braut Haaland (né Håland;[4] lahir 21 Juli 2000) adalah pemain sepak bola profesional Norwegia yang bermain sebagai penyerang untuk klub Liga Utama Inggris, Manchester City dan tim nasional Norwegia."
-  },
-  {
-    "id": 1,
-    "name": "Cristiano Ronaldo",
-    "image_url": "https://masaktv.github.io/img/cristianoronaldomasak.webp",
-    "video_url": "https://example.com/video/ronaldo.mp4",
-    "about": "https://example.com/video/ronaldo.mp4"
-  },
-  {
-    "id": 2,
-    "name": "Neymar Jr",
-    "image_url": "https://masaktv.github.io/img/lionelmessimasak.webp",
-    "video_url": "https://example.com/video/neymar.mp4",
-    "about": "https://example.com/video/neymar.mp4"
-  },
-  {
-    "id": 3,
-    "name": "Kylian Mbappé",
-    "image_url": "https://picsum.photos/id/1025/400/400",
-    "video_url": "https://example.com/video/mbappe.mp4",
-    "about": "https://example.com/video/mbappe.mp4"
+    "name": "Pratama Arhan",
+    "image_url": "https://cdn1-production-images-kly.akamaized.net/kG6zMWYF5al5eQUP5CFcbdg0OfA=/0x0:0x0/1200x1200/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/bola/watermark-color-square-new.png,1125,20,0)/kly-media-production/medias/4426403/original/009268600_1683974162-033A9039.JPG",
+    "video_url": "https://autokonten.biz.id/ahmaddroid/footballer/arhan.mp4",
+    "about": "Pratama Arhan Alif Rifai adalah pemain sepak bola profesional Indonesia yang bermain sebagai bek kiri untuk klub Liga 1 Thailand Bangkok United dan tim nasional Indonesia. Ia dikenal karena lemparan ke dalam dan tendangan bebasnya yang kuat."
   }
 ],
 
 "JWallpaper": [
-  "https://cdn0-production-images-kly.akamaized.net/tX3HopVbdMTQbgQzgnqI14Lc6Fk=/1280x1706/smart/filters:quality(75):strip_icc()/kly-media-production/medias/4944231/original/013610800_1726295939-000_36G88LG.jpg",
-  "https://static.promediateknologi.id/crop/0x224:2062x2032/0x0/webp/photo/p2/01/2025/09/05/messi-3660978536.jpg",
-  "https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/8071f7da-d86d-4d11-9544-6ca4a365eeae/Cristiano%20Ronaldo%20Al-Nassr.JPG?ver=03-06-2025?w=1080&q=75",
-  "https://cdn.britannica.com/34/212134-050-A7289400/Lionel-Messi-2018.jpg"
+  "https://cdn1-production-images-kly.akamaized.net/kG6zMWYF5al5eQUP5CFcbdg0OfA=/0x0:0x0/1200x1200/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/bola/watermark-color-square-new.png,1125,20,0)/kly-media-production/medias/4426403/original/009268600_1683974162-033A9039.JPG",
+  "https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/57/2025/01/08/arhan-5622832.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pratama_Arhan_-_53616470110.jpg",
+  "https://cloud.jpnn.com/photo/arsip/normal/2025/02/04/pratama-arhan-saat-berseragam-bangkok-united-foto-instagramp-ejvp.jpg",
+  "https://beritanasional.com/storage/2025/01/pratama-arhan-resmi-gabung-bangkok-united-07012025-220441.jpg"
 ]
 
 
